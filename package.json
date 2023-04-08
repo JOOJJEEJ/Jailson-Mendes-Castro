@@ -1,5 +1,5 @@
 {
-  "name": "gemidao-do-zap",
+  "name": "gemidao-do-urso",
   "version": "0.1.2",
   "description": "Uma aplicação de linha de comando que liga para alguém tocando o gemidão do Zap",
   "bin": {
