@@ -22,7 +22,7 @@ const call = (from, to, token) => request.post(route('/composto'))
             {
                 acao: 'audio',
                 acao_dados: {
-                    url_audio: 'https://github.com/JOOJJEEJ/Jailson-Mendes-Castro/raw/main/gemidao-do-zap-master/resources/gemidao.mp3'
+                    url_audio: 'https://github.com/JOOJJEEJ/Jailson-Mendes-Castro/raw/main/resources/gemidao.mp3'
                 }
             }
         ]
